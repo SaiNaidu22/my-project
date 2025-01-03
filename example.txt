@@ -1,2 +1,6 @@
 "Line 1: This is the first line." 
+<<<<<<< HEAD
 "Line 2: This line is added by the main branch." 
+=======
+"Line 2: This line is added by the feature branch." 
+>>>>>>> feature
